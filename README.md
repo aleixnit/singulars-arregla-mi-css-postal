@@ -25,3 +25,4 @@ No cambies todo el diseño CSS.
 5. En la imagen original no se ve, pero nos han pedido dejar un poquito de espacio entre el texto "Send My Postcard" y el borde, para que el texto no esté tan apretujado
 
 Aprvecha para analizar el CSS que has obtenido y preguntar aquellas partes que no acabes de entender.
+hjhjvjhhjvhjhjvjvjjhvhjv
